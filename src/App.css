@@ -1,0 +1,16 @@
+.navBar{
+ 
+  color: rgb(177, 24, 24);
+}
+input{
+  background-color: rgb(213, 231, 210);
+  border-radius: 8px;
+}
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card-img-top{
+  height: 200px;
+}
